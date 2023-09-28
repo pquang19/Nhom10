@@ -1,6 +1,5 @@
 import time
-
-start_time = time.perf_counter()
+import create 
 
 def mergesort(arr, left, right):
     if left >= right:
@@ -51,7 +50,9 @@ def merge(arr, left, right, middle):
     return arr
 
 
-arr = [38, 27, 43, 3, 9, 82, 10]
+arr=create.arr
+#arr = [5, 8, 4, 14, 23, 80, 6, 72, 57, 73, 53, 47, 27, 82, 65, 69, 57, 94, 48, 59, 36, 93, 32, 54, 40, 78, 95, 67, 11, 66, 51, 70, 62, 79, 29, 29, 36, 93, 48, 37, 82, 55, 98, 31, 33, 2, 36, 21, 47, 60, 38, 96, 70, 65, 64, 0, 10, 23, 78, 36, 31, 4, 82, 92, 2, 20, 2, 74, 17, 15, 65, 89, 97, 60, 56, 4, 41, 15, 56, 60, 39, 55, 47, 79, 34, 29, 96, 31, 8, 80, 82, 14, 85, 26, 88, 1, 5, 51, 33, 24]
+start_time = time.perf_counter()
 array = mergesort(arr, 0, len(arr) - 1)
 print("Sorted Array:", array)
 

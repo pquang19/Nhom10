@@ -1,0 +1,1 @@
+print("Sorted Array:", arr)
