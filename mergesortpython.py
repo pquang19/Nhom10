@@ -52,6 +52,7 @@ def merge(arr, left, right, middle):
 
 arr=create.arr
 
+start_time = time . perf_counter ()
 array = mergesort(arr, 0, len(arr) - 1)
 print("Sorted Array:", array)
 
