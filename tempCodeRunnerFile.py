@@ -1,1 +1,0 @@
-print("Sorted Array:", arr)
