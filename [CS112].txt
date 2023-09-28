@@ -1,0 +1,23 @@
+[CS112] - Buổi 2
+- chủ đề xoáy vào nội dung cần tranh luận
+- chỉ định câu hỏi cho người nghe
+- tránh tg chết, push các nhóm 
+=> cuối: chốt nội dung nói
+**VD: TT gần đúng
+làm dc trong khoảng tg mong đợi (?) và kq càng gần càng đúng (?)
+tùy thuộc vào yc cụ thể của bài toán.
+vd: xác định tên lửa đánh chặn.
+dẫn đề bài => nêu ra tình huống. 
+7p(Đánh chặn): 3p tính toán,... Độ chính xác?
+
+**kỹ thuật câu giờ: 5p để tìm thuật toán (gần đúng??)...
+=> 1/ mời 1 nhóm 
+   2/ brainstorm (?): mỗi nhóm tự đưa ra ý kiến của mình
+**câu hỏi phải chỉ đích danh
+**BT tuần tới:
+đọc và viết chương trình cài đặt thuật toán Merger Sort xử lý song song bằng ngôn ngữ Python
+tách phần việc thành các process khác nhau
+Input là một dãy... tách dữ liệu.
+Thầy ĐỌC code.
+**Thuật toán lượng tử??
+

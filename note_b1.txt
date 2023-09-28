@@ -1,0 +1,10 @@
+phân tích 
+thuật toán
+
+tóm tắt đề bài -> phân tích -> thuật toán (nhiều pa giải) ->
+ghi lại quá trình làm việc computional thinking
+trình bày.
+template?
+comment docstring
+thuật toán song song, chạy trên nhiều core để tổng hợp ra kết quả cuối cùng. 
+CB nội dung và tài liệu
