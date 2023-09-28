@@ -67,6 +67,7 @@ def mergesort_parallel(arr, left, right, depth=0):
 MAX_DEPTH = 4  # Điều chỉnh độ sâu tối đa cho việc song song hóa
 arr=create.arr
 
+start_time = time . perf_counter ()
 mergesort_parallel(arr, 0, len(arr) - 1)
 end_time = time.perf_counter()
 
