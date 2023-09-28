@@ -1,4 +1,6 @@
-import multiprocessing
+import time
+
+start_time = time.perf_counter()
 
 def mergesort(arr, left, right):
     if left >= right:
@@ -52,4 +54,10 @@ def merge(arr, left, right, middle):
 arr = [38, 27, 43, 3, 9, 82, 10]
 array = mergesort(arr, 0, len(arr) - 1)
 print("Sorted Array:", array)
+
+end_time = time.perf_counter()
+
+execution_time = end_time - start_time
+print(f"Thời gian thực thi: {execution_time:.6f} giây")
+
 
